@@ -3,3 +3,4 @@
 - Contribuição coautorada #4
 - Contribuição coautorada #5
 - Contribuição coautorada #6
+- Contribuição coautorada #7
